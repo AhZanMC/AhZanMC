@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I’m @AhZanMC</h1>
+<h1 align="center">Hi 👋, I'm AhZanMC</h1>
 <p align="center">
      <a href="👋 Hi, I’m @AhZanMC">
-       <img src="https://github.com/AhZanMC/AhZanMC/blob/main/profile.png" width="30%" height="30%" style="border-radius:50%">
+       <img src="https://github.com/Mayumiwandi/AhZanMC/blob/main/Profile.png" width="40%" height="40%">
      </a>
 
 </p>
@@ -42,9 +42,11 @@ let Fauzan = [
 ];
 console.log(Fauzan)
 ```
-
+## My Skill
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,ps,netlify," />
+     <a href="https://github.com/AhZanMC">
+          <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,ps,netlify," />
+     </a>     
 </p>
 
 ## Github Statistic
