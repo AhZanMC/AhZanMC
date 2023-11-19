@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AhZanMC</h1>
 <p align="center">
      <a href="👋 Hi, I’m @AhZanMC">
-       <img src="https://github.com/Mayumiwandi/AhZanMC/blob/main/Profile.png" width="40%" height="40%">
+       <img src="https://github.com/AhZanMC/AhZanMC/blob/main/Profile.png" width="40%" height="40%">
      </a>
 </p>
 
