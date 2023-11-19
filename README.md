@@ -3,7 +3,6 @@
      <a href="👋 Hi, I’m @AhZanMC">
        <img src="https://github.com/Mayumiwandi/AhZanMC/blob/main/Profile.png" width="40%" height="40%">
      </a>
-
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhZanMC" alt="AhZanMC" /></p>
