@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @AhZanMC</h1>
 <p align="center">
-     <a href="👋 Hi, I’m @AhZanMC"><img src="https://github.com/AhZanMC/AhZanMC/blob/main/profile.png" style="width: 150px;height: 150px;border-radius: 100%;" /></a>
+     <a href="👋 Hi, I’m @AhZanMC"><img src="https://github.com/AhZanMC/AhZanMC/blob/main/profile.png" style="width: 150px;height: 150px;border-radius: 100px;" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhZanMC" alt="AhZanMC" /></p>
