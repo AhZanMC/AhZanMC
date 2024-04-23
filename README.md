@@ -17,6 +17,7 @@ let Fauzan = [
             "Frontend :v",
             "Creator Texture Pack",
             "Tukang ngeshare ingfo Menkrep :v"
+            "Dev Website Ingfo Menkrep"
         ],
         "interest": [
             "Anime",
@@ -29,7 +30,8 @@ let Fauzan = [
             "Css",
             "JavaScript",
             "C++",
-            "Texture Pack Creation"
+            "Texture Pack Creation",
+            "Editing"
         ],
         "socialMedia": {
             "Youtube": "AhZanMC",
