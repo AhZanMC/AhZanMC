@@ -46,7 +46,14 @@ console.log(Fauzan)
 ## My Skill
 <p align="center">
      <a href="https://github.com/AhZanMC">
-          <img src="https://skillicons.dev/icons?i=js,html,css,cpp,figma,ps,netlify," />
+          <img src="https://skillicons.dev/icons?i=js,html,css,cpp,py" />
+     </a>     
+</p>
+
+## My 
+<p align="center">
+     <a href="https://github.com/AhZanMC">
+          <img src="https://skillicons.dev/icons?i=figma,ps,netlify,vscode,vercel" />
      </a>     
 </p>
 
