@@ -50,7 +50,7 @@ console.log(Fauzan)
      </a>     
 </p>
 
-## My 
+## Tools
 <p align="center">
      <a href="https://github.com/AhZanMC">
           <img src="https://skillicons.dev/icons?i=figma,ps,netlify,vscode,vercel" />
