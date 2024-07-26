@@ -64,3 +64,14 @@ console.log(Fauzan)
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhZanMC&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   </a>
 </p>
+
+## Connect With Me
+<div align="left">
+  <a href="https://instagram.com/ahzanmc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href=" https://ahzanmc.my.id/discord" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+</div>
+
