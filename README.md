@@ -16,7 +16,7 @@ let Fauzan = [
             "Content Creator",
             "Frontend :v",
             "Creator Texture Pack",
-            "Tukang ngeshare ingfo Menkrep :v"
+            "Tukang ngeshare ingfo Menkrep :v",
             "Dev Website Ingfo Menkrep",
             "Developer Website di Minecraft Bersatu (mcbersatu.com)"
         ],
