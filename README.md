@@ -31,6 +31,8 @@ let Fauzan = [
             "Css",
             "JavaScript",
             "C++",
+            "React JS",
+            "Tailwind CSS",
             "Texture Pack Creation",
             "Editing"
         ],
