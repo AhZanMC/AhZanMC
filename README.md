@@ -19,6 +19,7 @@ let Fauzan = [
             "Tukang ngeshare ingfo Menkrep :v",
             "Dev Website Ingfo Menkrep",
             "Developer Website di Minecraft Bersatu (mcbersatu.com)"
+            "Undertale & Deltarune Enjoyer"
         ],
         "interest": [
             "Anime",
@@ -30,6 +31,7 @@ let Fauzan = [
             "Html",
             "Css",
             "JavaScript",
+            "PHP",
             "C++",
             "React JS",
             "Tailwind CSS",
